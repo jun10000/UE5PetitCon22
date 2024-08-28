@@ -17,8 +17,8 @@ Developed with Unreal Engine 5
 ### BGM / Jingle
 - [OP/EDジングル30](https://dova-s.jp/bgm/play20075.html) by
   [t12ya](https://dova-s.jp/_contents/author/profile341.html)
-- [トロピカルジュース](https://dova-s.jp/bgm/play19025.html) by
-  [えだまめ88](https://dova-s.jp/_contents/author/profile356.html)
+- [Llevame al Paraiso](https://dova-s.jp/bgm/play15775.html) by
+  [秦暁](https://dova-s.jp/_contents/author/profile430.html)
 
 ### Sound
 - [3 2 1 GO!!! レースのスタート音](https://dova-s.jp/se/play1455.html) by
