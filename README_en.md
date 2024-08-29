@@ -1,31 +1,31 @@
-# ジェットコースター シューティングゲーム [[第22回UE5ぷちコン](https://historia.co.jp/ue5petitcon22)]
+# Roller Coaster Shooting [[UE5 Petit CONTEST 22](https://historia.co.jp/ue5petitcon22)]
 
-English version is [here](./README_en.md).  
+日本語バージョンは[こちら](./README.md)。  
 
 ![image1](./image1.png)  
-ジェットコースターを舞台にしたシューティングゲームです。  
-制限時間内に多くの的を撃って高得点を目指そう！  
-このゲームはUnreal Engine 5を使って開発しています。  
+This is a shooting game set in a roller coaster.  
+Aim for a high score by shooting as many targets as possible within the time limit!  
+This game had developed with Unreal Engine 5.  
 
-## 遊び方
+## How to play
 
-- マウス移動: カメラ視点を移動する
-- マウスクリック: ビームを発射する
-- Escキー: ゲームを終了する
+- Mouse move: Move the camera view
+- Mouse click: Shoot the beam
+- Esc: Exit the game
 
-## クレジット
+## Credit
 
-### 画像
+### Image
 - [roller-coaster-amusement-park](https://pixabay.com/vectors/roller-coaster-amusement-park-2069862/) by
   [GDJ](https://pixabay.com/users/gdj-1086657/)
 
-### BGM / ジングル
+### BGM / Jingle
 - [OP/EDジングル30](https://dova-s.jp/bgm/play20075.html) by
   [t12ya](https://dova-s.jp/_contents/author/profile341.html)
 - [Llevame al Paraiso](https://dova-s.jp/bgm/play15775.html) by
   [秦暁](https://dova-s.jp/_contents/author/profile430.html)
 
-### 効果音
+### Sound
 - [3 2 1 GO!!! レースのスタート音](https://dova-s.jp/se/play1455.html) by
   [NaruIDEA](https://dova-s.jp/_contents/author/profile370.html)
 - [ショット音](https://dova-s.jp/se/play674.html) by
