@@ -9,6 +9,8 @@ English version is [here](./README_en.md).
 
 ## 遊び方
 
+Youtube動画は[こちら](https://youtu.be/ZKaCl3dJ-h8)。  
+
 - マウス移動: カメラ視点を移動する
 - マウスクリック: ビームを発射する
 - Escキー: ゲームを終了する

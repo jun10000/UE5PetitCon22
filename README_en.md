@@ -9,6 +9,8 @@ This game had developed with Unreal Engine 5.
 
 ## How to play
 
+Youtube video is [here](https://youtu.be/ZKaCl3dJ-h8).  
+
 - Mouse move: Move the camera view
 - Mouse click: Shoot the beam
 - Esc: Exit the game
